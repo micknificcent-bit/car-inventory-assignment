@@ -20,3 +20,11 @@ Total km = Miles * 1.60934
 - Pivot table and chart screenshot
 
 Tools: Microsoft Excel, Pivot Tables, Excel Formulas
+## Dashboard & Results
+
+### Pivot Chart
+![Pivot Chart](pivot%20table%20and%20chart.png)
+
+- Grand Total: 3,759,397 km
+- Top Driver: Smith
+- Conversion used: km = miles * 1.60934
